@@ -1,0 +1,14 @@
+
+Require :
+- symfony (https://symfony.com/download)
+- composer (https://getcomposer.org/download/)
+- yarn (https://classic.yarnpkg.com/lang/en/docs/install/)
+
+Install : 
+in the project folder execute the folowing command
+  - composer install
+  - yarn install
+
+Start:
+in the project folder execute the folowing command
+  - symfony server:start

@@ -1,0 +1,212 @@
+[
+  {
+    "Id": "de569a1c-71b6-4b22-920b-030d85408411",
+    "Code": "A",
+    "Question": "Je suis à l'aise quand je travaille seul·e "
+  },
+  {
+    "Id": "c9c89b66-0921-4085-b550-0a344b0281f3",
+    "Code": "C",
+    "Question": "Je gère sans difficulté les démarches administratives"
+  },
+  {
+    "Id": "417a792e-01f9-4a52-84a2-0b01f0dc72ea",
+    "Code": "C",
+    "Question": "Je suis ponctuel·le"
+  },
+  {
+    "Id": "a11d70fc-7eb9-4432-b921-12e65d0a4ce6",
+    "Code": "I",
+    "Question": "Je m'intéresse aux sciences : physique, mathématiques, biologie !"
+  },
+  {
+    "Id": "79956a36-6989-4f21-be66-1731698a76cc",
+    "Code": "C",
+    "Question": "J'apprécie le quotidien et la routine qui me sécurisent"
+  },
+  {
+    "Id": "fd989d24-0bfb-42fd-a403-18091d292674",
+    "Code": "C",
+    "Question": "Je suis minitieux·se et je travaille avec précision"
+  },
+  {
+    "Id": "3b434a2b-4d05-40dd-adf4-26093dbc0cb1",
+    "Code": "A",
+    "Question": "Je suis quelqu'un de créatif"
+  },
+  {
+    "Id": "110a3c31-2b27-40fd-9d41-2c2558d36e88",
+    "Code": "E",
+    "Question": "Je suis ambitieux·se, je me fixe des objectifs et je m'y tiens"
+  },
+  {
+    "Id": "96f858e5-1624-4fcc-ac3e-32180f53665b",
+    "Code": "C",
+    "Question": "Mon entourage me dit souvent que je suis d'un naturel calme"
+  },
+  {
+    "Id": "f28196b9-f8e2-4216-9ed3-32212648b70c",
+    "Code": "R",
+    "Question": "J'aimerais travailler en extérieur"
+  },
+  {
+    "Id": "fe260f93-a9d9-45ef-a0ed-3c0f23523278",
+    "Code": "S",
+    "Question": "J'aime écouter et aider les autres à résoudre leurs problèmes"
+  },
+  {
+    "Id": "1fd154b4-3c9e-4de1-84ab-40f533af273f",
+    "Code": "R",
+    "Question": "Je suis plutôt bricoleur·euse"
+  },
+  {
+    "Id": "04c0626e-b106-4b63-94db-4a3c0eb9415f",
+    "Code": "I",
+    "Question": "J'aime comprendre le fonctionnement des choses qui m’entourent"
+  },
+  {
+    "Id": "63766368-552f-4160-b3ab-4a81b9f1113a",
+    "Code": "E",
+    "Question": "J'aime influencer ou convaincre mon entourage sur des sujets qui me passionnent "
+  },
+  {
+    "Id": "46d09f4b-5087-4502-a232-4ae26e75b3fa",
+    "Code": "A",
+    "Question": "J'aime dessiner, peindre"
+  },
+  {
+    "Id": "b309c194-57c3-469d-ae45-6658b70535eb",
+    "Code": "S",
+    "Question": "Je suis ouvert·e à la découverte de nouvelles cultures"
+  },
+  {
+    "Id": "3972bd94-475e-44d7-a6e6-667fa6a5d5c2",
+    "Code": "I",
+    "Question": "Je suis à l'aise avec les chiffres et les graphiques"
+  },
+  {
+    "Id": "3828c73d-b688-40a3-9afc-6f7d46838de8",
+    "Code": "E",
+    "Question": "J’aime le challenge et je m'imaginerais bien créer ma propre entreprise plus tard"
+  },
+  {
+    "Id": "37cca3df-71af-49e2-a64f-70ffe7dc466c",
+    "Code": "R",
+    "Question": "Je préfère agir plutôt que de discuter longuement de ce que l'on va faire "
+  },
+  {
+    "Id": "ab90fec7-d8dc-421f-a5e6-74eafd663d46",
+    "Code": "C",
+    "Question": "J'aime organiser et ordonner les choses (des fichiers, mon bureau, etc...)"
+  },
+  {
+    "Id": "86cf31a5-9cb6-4540-bfdd-8991def910c2",
+    "Code": "A",
+    "Question": "J'ai une certaine sensibilité esthétique pour la photographie"
+  },
+  {
+    "Id": "3bb1c946-5424-411f-9ae1-8e041b08263a",
+    "Code": "I",
+    "Question": "J'aime résoudre des problèmes mathématiques"
+  },
+  {
+    "Id": "b953d52e-f945-41a1-a509-8e95aaca5e24",
+    "Code": "E",
+    "Question": "J'ai le sens des affaires, j'aime marchander"
+  },
+  {
+    "Id": "970b6f27-6d58-4919-bda9-98c5d8783f16",
+    "Code": "I",
+    "Question": "J'aime bien les jeux de réflexion et de stratégie"
+  },
+  {
+    "Id": "200e2be9-0a5d-493e-9269-a0846eca0738",
+    "Code": "I",
+    "Question": "Je prends le temps d'analyser des situations ou des problèmes avant d'agir"
+  },
+  {
+    "Id": "fa41363d-d75b-4fd5-a5d4-abea59ae35de",
+    "Code": "S",
+    "Question": "J'apprécie le contact avec les autres et je communique facilement"
+  },
+  {
+    "Id": "884a2b66-5a32-4605-91f5-bcac062daf05",
+    "Code": "R",
+    "Question": "J'aimerais travailler au contact des animaux et en prendre soin"
+  },
+  {
+    "Id": "9698bd0e-cfd0-4922-a46b-bd3815a900c1",
+    "Code": "I",
+    "Question": "J'aime explorer, étudier et découvrir de nouvelles choses"
+  },
+  {
+    "Id": "2024b335-2ea9-4fdb-844d-c3494a7bdce0",
+    "Code": "A",
+    "Question": "J’exprime mes sentiments par la musique, la poésie, l'écriture, le théâtre etc."
+  },
+  {
+    "Id": "a3e44b1f-dd1a-40a0-acbb-c5c303a03bc8",
+    "Code": "E",
+    "Question": "Je m'exprime en public avec aisance"
+  },
+  {
+    "Id": "4ed59a65-db3c-408d-8436-ca11e868af22",
+    "Code": "R",
+    "Question": "J'aime bien cuisiner"
+  },
+  {
+    "Id": "ddd982cf-7aed-4dbc-93df-db300bd49557",
+    "Code": "E",
+    "Question": "Je m'adapte facilement à de nouvelles situations"
+  },
+  {
+    "Id": "f449a8e5-d508-406b-9bed-dd90fb2d28c2",
+    "Code": "R",
+    "Question": "J'aime construire, fabriquer, réparer..."
+  },
+  {
+    "Id": "f3d35c98-7d9f-4363-97b2-df65d3c433c8",
+    "Code": "C",
+    "Question": "J’ai besoin de recevoir des instructions très claires et précises qui me permettent de savoir exactement ce qu’on attend de moi."
+  },
+  {
+    "Id": "b908ca65-3ec5-4988-965e-e1b40509b13d",
+    "Code": "S",
+    "Question": "J'apprends surtout en échangeant avec les autres"
+  },
+  {
+    "Id": "f6b3dd2a-d375-422c-87c8-e274cd06b9f6",
+    "Code": "S",
+    "Question": "Je me positionne naturellement comme médiateur·rice dans des situations conflictuelles"
+  },
+  {
+    "Id": "e99306ed-036f-4bf3-a007-ebe9b800f5bf",
+    "Code": "S",
+    "Question": "J'aime transmettre mes connaissances aux autres"
+  },
+  {
+    "Id": "8d1353a2-291b-4277-a997-f0b40e5510db",
+    "Code": "R",
+    "Question": "J'évite d’attirer l’attention et je ne cherche pas à intervenir dans les affaires des autres."
+  },
+  {
+    "Id": "bb93b0d8-42c4-4d35-b0ff-f16b3df1f058",
+    "Code": "E",
+    "Question": "Je reste enthousiaste et énergique même en situation difficile"
+  },
+  {
+    "Id": "9eb30e4d-c1a5-4988-bfb0-f57413043822",
+    "Code": "S",
+    "Question": "Je sais me montrer souple et bienveillant·e notamment dans les travaux de groupe"
+  },
+  {
+    "Id": "d5eb3926-6f96-428d-9635-fb3c9b214780",
+    "Code": "A",
+    "Question": "J'ai un grand besoin de liberté et d'indépendance"
+  },
+  {
+    "Id": "0f2c3d3c-0536-46ad-81ad-fdbf6274e343",
+    "Code": "A",
+    "Question": "Je suis doté·e d'une grande sensibilité et d'imagination"
+  }
+]
